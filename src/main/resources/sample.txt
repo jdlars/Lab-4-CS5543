@@ -1,0 +1,1 @@
+It isn't a regular practice to have outofmemoryexceptions generally this means your code is poorly optimized probably written wrongly somewhere. Although it is possible to increase heap size the general cause isn't the actually heap size and it more likely programming conventions or mistakes. Come back with code, show us your thread.
